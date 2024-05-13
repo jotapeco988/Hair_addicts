@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for watching my project of hair addicts
 
-Template Name: Impact
-Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my projecto for my sister company and we have a landing page made by html, javascript and tailwind.
+
+Prohect made by juan pablo duque diaz
